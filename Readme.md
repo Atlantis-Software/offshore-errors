@@ -1,13 +1,12 @@
-![image_squidhome@2x.png](http://i.imgur.com/RIvu9.png)
+Offshore Errors
+==========================
 
-# waterline-errors [![Build Status](https://travis-ci.org/vanetix/waterline-errors.png?branch=master)](https://travis-ci.org/vanetix/waterline-errors)
-
-A module for errors returned from waterline core, associations, and adapters. Each error module for a specific sub-system of waterline resides in `lib/modules`.
+A module for errors returned from offshore core, associations, and adapters. Each error module for a specific sub-system of offshore resides in `lib/modules`.
 
 ## Usage
 
 ```javascript
-var Errors = require('waterline-errors');
+var Errors = require('offshore-errors');
 
 
 function letsMakeAnError(options, cb) {
@@ -21,6 +20,8 @@ function letsMakeAnError(options, cb) {
 ## License (MIT)
 
 Copyright (c) 2013-2014 Matt McFarland, Cody Stoltman & Balderdash Design Co.
+
+Copyright (c) 2015 Atlantis Software.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

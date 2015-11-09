@@ -5,7 +5,7 @@
 var assert = require('assert'),
     errors = require('../');
 
-describe('waterline-errors', function() {
+describe('offshore-errors', function() {
 
   it('should have sub modules', function() {
     assert(Object.keys(errors).length);

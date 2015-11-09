@@ -1,21 +1,25 @@
 {
-  "name": "waterline-errors",
-  "version": "0.10.1",
-  "author": "vanetix <matmcfarland@gmail.com>",
-  "description": "Standard adapter errors from Waterline",
-  "homepage": "https://github.com/vanetix/waterline-errors",
+  "name": "offshore-errors",
+  "version": "0.0.1",
+  "contributors": [
+    {
+      "name": "Alexandre Tiertant",
+      "github": "https://github.com/atiertant"
+    }
+  ],
+  "description": "Standard adapter errors from Offshore",
+  "homepage": "https://github.com/Atlantis-Software/offshore-errors",
   "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:vanetix/waterline-errors"
+    "url": "git@github.com:Atlantis-Software/offshore-errors"
   },
   "scripts": {
     "test": "make test"
   },
   "keywords": [
-    "waterline",
-    "sails",
+    "offshore",
     "errors"
   ],
   "devDependencies": {
