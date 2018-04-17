@@ -1,6 +1,12 @@
 Offshore Errors
 ==========================
 
+[![npm version](https://badge.fury.io/js/offshore-errors.svg)](https://www.npmjs.com/offshore-errors)
+[![Build Status](https://travis-ci.org/Atlantis-Software/offshore-errors.svg?branch=master)](https://travis-ci.org/Atlantis-Software/offshore-errors)
+[![Coverage Status](https://coveralls.io/repos/github/Atlantis-Software/offshore-errors/badge.svg?branch=master)](https://coveralls.io/github/Atlantis-Software/offshore-errors?branch=master)
+[![NSP Status](https://nodesecurity.io/orgs/atlantis/projects/f5d848ca-b570-45f9-bdbb-e195480a989c/badge)](https://nodesecurity.io/orgs/atlantis/projects/f5d848ca-b570-45f9-bdbb-e195480a989c)
+[![Dependencies Status](https://david-dm.org/Atlantis-Software/offshore-errors.svg)](https://david-dm.org/Atlantis-Software/offshore-errors)
+
 A module for errors returned from offshore core, associations, and adapters. Each error module for a specific sub-system of offshore resides in `lib/modules`.
 
 ## Usage
