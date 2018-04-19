@@ -1,0 +1,9 @@
+.travis.yml
+.eslintrc
+.eslintignore
+.gitignore
+test/
+node_modules/
+nbproject/
+.nyc_output/
+package-lock.json
